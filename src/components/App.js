@@ -1,7 +1,8 @@
 
 import React from "react";
 import './../styles/App.css';
-import Button from './button';
+import Button  from'./src/components/button'
+
 
 
 const App = () => {
